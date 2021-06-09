@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>V</folder>
+	<filename>V.ff8b0b42-c2b8-11eb-ac2f-0008ca6b6d30.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\V\V.ff8b0b42-c2b8-11eb-ac2f-0008ca6b6d30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>157</ymin>
+			<xmax>272</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
